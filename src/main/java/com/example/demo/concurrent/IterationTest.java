@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 import com.example.demo.repository.TestColl;
 import com.example.demo.repository.TestColle;
 
-@Component
+//@Component
 public class IterationTest implements CommandLineRunner {
 	@Autowired
 	private TestColl repository;
